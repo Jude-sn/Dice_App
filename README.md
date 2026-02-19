@@ -1,6 +1,8 @@
+# Jude Santiago 
+# NW-301
 # dice_app
 
-A new Flutter project.
+Week 10 - DiceApp
 
 ## Getting Started
 
